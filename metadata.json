@@ -1,0 +1,6 @@
+{
+  "name": "OrderPulse: Distributed Order & Inventory Engine",
+  "description": "Interactive microservices architecture simulator and SQL database workbench for high-throughput order lifecycles, atomic stock reservations, and payment webhooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
